@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM?style=flat-square&logo=github&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM?style=flat-square&color=emerald" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Supplier-Lifecycle-Management-SLM/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
@@ -74,45 +74,45 @@ The table below catalogs the leading commercial SaaS platforms for Supplier Life
 
 The following curated open-source projects provide sovereign, customizable alternatives for supplier relationship management, vendor risk management, procurement automation, and supplier scorecards.
 
-Projects are **sorted in descending order by GitHub Star count**, featuring active social badges directly linked to each repository's stargazers page:
+Projects are **sorted in descending order by GitHub Stars_Count**, featuring active social badges directly linked to each repository's stargazers page:
 
-1. **[Dolibarr ERP/CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) 📦  
+1. **[Dolibarr ERP/CRM](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers) 📦  
    *Enterprise-grade open-source ERP/CRM suite written in PHP.* Includes a comprehensive **Supplier Management Module** managing vendor directories, Approved Supplier Lists (ASL), multi-currency supplier price lists, purchase order revisions, supplier invoices, weighted supplier evaluations, and CAPA audit findings.
 
-2. **[ITFlow](https://github.com/itflow-org/itflow)** [![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers) 🖥️  
+2. **[ITFlow](https://github.com/itflow-org/itflow)** [![GitHub_Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers) 🖥️  
    *Self-hosted open-source IT service management and vendor management system.* Provides centralized **Vendor & Supplier Lifecycle Tracking**, vendor contract renewal alerts, SLA performance tracking, SSL/domain certificate expiry monitoring, client/vendor portals, and procurement expense logging.
 
-3. **[OpenGRC](https://github.com/LeeMangold/OpenGRC)** [![GitHub stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC/stargazers) 🛡️  
+3. **[OpenGRC](https://github.com/LeeMangold/OpenGRC)** [![GitHub_Stars](https://img.shields.io/github/stars/LeeMangold/OpenGRC?style=social&color=white)](https://github.com/LeeMangold/OpenGRC/stargazers) 🛡️  
    *Open-source Governance, Risk, and Compliance (GRC) platform.* Features a robust **Third-Party Vendor Risk Management (TPRM)** module with vendor risk assessment questionnaires, compliance evidence uploads, ISO 27001 / SOC 2 / HIPAA control mapping, and vendor remediation tracking.
 
-4. **[ForgeFlow](https://github.com/JayleeBot/ForgeFlow)** [![GitHub stars](https://img.shields.io/github/stars/JayleeBot/ForgeFlow?style=social&color=white)](https://github.com/JayleeBot/ForgeFlow/stargazers) 🤖  
+4. **[ForgeFlow](https://github.com/JayleeBot/ForgeFlow)** [![GitHub_Stars](https://img.shields.io/github/stars/JayleeBot/ForgeFlow?style=social&color=white)](https://github.com/JayleeBot/ForgeFlow/stargazers) 🤖  
    *AI-powered email procurement agent.* Automates RFQ quote ingestion from supplier emails, parses complex commercial quotes using LLMs, standardizes line-item pricing, and generates side-by-side bid comparison matrices.
 
-5. **[1688 CLI](https://github.com/superjack2050/1688-cli)** [![GitHub stars](https://img.shields.io/github/stars/superjack2050/1688-cli?style=social&color=white)](https://github.com/superjack2050/1688-cli/stargazers) 🔍  
+5. **[1688 CLI](https://github.com/superjack2050/1688-cli)** [![GitHub_Stars](https://img.shields.io/github/stars/superjack2050/1688-cli?style=social&color=white)](https://github.com/superjack2050/1688-cli/stargazers) 🔍  
    *AI-agent friendly command-line tool for supplier sourcing and vendor evaluation.* Automates supplier search, factory background verification, product pricing inquiries, and order lifecycle management.
 
-6. **[OpenProcurement API](https://github.com/openprocurement/openprocurement.api)** [![GitHub stars](https://img.shields.io/github/stars/openprocurement/openprocurement.api?style=social&color=white)](https://github.com/openprocurement/openprocurement.api/stargazers) 🏛️  
+6. **[OpenProcurement API](https://github.com/openprocurement/openprocurement.api)** [![GitHub_Stars](https://img.shields.io/github/stars/openprocurement/openprocurement.api?style=social&color=white)](https://github.com/openprocurement/openprocurement.api/stargazers) 🏛️  
    *The core open-source procurement API toolkit powering national e-procurement systems (such as Prozorro).* Supports open transparent tenders, reverse electronic auctions, vendor pre-qualification, multi-stage evaluations, and real-time public contract tracking.
 
-7. **[Open mSupply](https://github.com/msupply-foundation/open-msupply)** [![GitHub stars](https://img.shields.io/github/stars/msupply-foundation/open-msupply?style=social&color=white)](https://github.com/msupply-foundation/open-msupply/stargazers) 🏥  
+7. **[Open mSupply](https://github.com/msupply-foundation/open-msupply)** [![GitHub_Stars](https://img.shields.io/github/stars/msupply-foundation/open-msupply?style=social&color=white)](https://github.com/msupply-foundation/open-msupply/stargazers) 🏥  
    *Open-source supply chain software designed for healthcare and humanitarian logistics.* Features supplier quotation comparisons, tender awards, supplier master catalog indexing, and automated purchase order dispatching.
 
-8. **[OmniSupply AI](https://github.com/Bhardwaj-Saurabh/OmniSupply-AI-Multi-Agent-Supply-Chain-Intelligence-Platform)** [![GitHub stars](https://img.shields.io/github/stars/Bhardwaj-Saurabh/OmniSupply-AI-Multi-Agent-Supply-Chain-Intelligence-Platform?style=social&color=white)](https://github.com/Bhardwaj-Saurabh/OmniSupply-AI-Multi-Agent-Supply-Chain-Intelligence-Platform/stargazers) ⚡  
+8. **[OmniSupply AI](https://github.com/Bhardwaj-Saurabh/OmniSupply-AI-Multi-Agent-Supply-Chain-Intelligence-Platform)** [![GitHub_Stars](https://img.shields.io/github/stars/Bhardwaj-Saurabh/OmniSupply-AI-Multi-Agent-Supply-Chain-Intelligence-Platform?style=social&color=white)](https://github.com/Bhardwaj-Saurabh/OmniSupply-AI-Multi-Agent-Supply-Chain-Intelligence-Platform/stargazers) ⚡  
    *Multi-agent supply chain intelligence platform.* Combines supplier datasets, delivery performance logs, and risk indicators to generate autonomous supply-chain decision support via LangChain and multi-agent orchestration.
 
-9. **[Procurement AI Assistant](https://github.com/arunbalajiraju-proc/procurement-ai-assistant)** [![GitHub stars](https://img.shields.io/github/stars/arunbalajiraju-proc/procurement-ai-assistant?style=social&color=white)](https://github.com/arunbalajiraju-proc/procurement-ai-assistant/stargazers) 🧠  
+9. **[Procurement AI Assistant](https://github.com/arunbalajiraju-proc/procurement-ai-assistant)** [![GitHub_Stars](https://img.shields.io/github/stars/arunbalajiraju-proc/procurement-ai-assistant?style=social&color=white)](https://github.com/arunbalajiraju-proc/procurement-ai-assistant/stargazers) 🧠  
    *Open library of reusable AI skills and prompts for procurement teams.* Covers supplier qualification checks, contract risk clause analysis, supplier negotiation preparation, and supplier performance scorecard calculations.
 
-10. **[Procuman Community Edition](https://github.com/procuman/procuman-community-edition)** [![GitHub stars](https://img.shields.io/github/stars/procuman/procuman-community-edition?style=social&color=white)](https://github.com/procuman/procuman-community-edition/stargazers) 📋  
+10. **[Procuman Community Edition](https://github.com/procuman/procuman-community-edition)** [![GitHub_Stars](https://img.shields.io/github/stars/procuman/procuman-community-edition?style=social&color=white)](https://github.com/procuman/procuman-community-edition/stargazers) 📋  
     *Free and open e-procurement extension for EspoCRM.* Delivers supplier relationship categorization, supplier product catalog mapping, purchase order creation with automated calculation engines, and PDF generation.
 
-11. **[mcp-supplier](https://github.com/zavora-ai/mcp-supplier)** [![GitHub stars](https://img.shields.io/github/stars/zavora-ai/mcp-supplier?style=social&color=white)](https://github.com/zavora-ai/mcp-supplier/stargazers) 🔌  
+11. **[mcp-supplier](https://github.com/zavora-ai/mcp-supplier)** [![GitHub_Stars](https://img.shields.io/github/stars/zavora-ai/mcp-supplier?style=social&color=white)](https://github.com/zavora-ai/mcp-supplier/stargazers) 🔌  
     *Full Supplier Relationship Management (SRM) platform built on the Model Context Protocol (MCP).* Features 34 specialized tools spanning supplier lifecycle states (`prospect` → `active` → `suspended` / `disqualified`), ISO/IATF/HACCP certification tracking, RFQ sourcing, quality audits with automated SCAR issuance, and on-time delivery (OTD) scorecards.
 
-12. **[VendorBridge AI](https://github.com/vatsalgajera-tech/VendorBridge-AI)** [![GitHub stars](https://img.shields.io/github/stars/vatsalgajera-tech/VendorBridge-AI?style=social&color=white)](https://github.com/vatsalgajera-tech/VendorBridge-AI/stargazers) 🚀  
+12. **[VendorBridge AI](https://github.com/vatsalgajera-tech/VendorBridge-AI)** [![GitHub_Stars](https://img.shields.io/github/stars/vatsalgajera-tech/VendorBridge-AI?style=social&color=white)](https://github.com/vatsalgajera-tech/VendorBridge-AI/stargazers) 🚀  
     *AI-powered procurement ERP built with React, Node.js, and MongoDB.* Features vendor risk scoring, multi-vendor RFQ bidding, AI-assisted quotation comparison and ranking, multi-stage approval hierarchies, and PO generation.
 
-13. **[Shillinq](https://github.com/ConductionNL/shillinq)** [![GitHub stars](https://img.shields.io/github/stars/ConductionNL/shillinq?style=social&color=white)](https://github.com/ConductionNL/shillinq/stargazers) 📁  
+13. **[Shillinq](https://github.com/ConductionNL/shillinq)** [![GitHub_Stars](https://img.shields.io/github/stars/ConductionNL/shillinq?style=social&color=white)](https://github.com/ConductionNL/shillinq/stargazers) 📁  
     *Open-source Nextcloud business procurement and supplier qualification suite (EUPL-1.2).* Offers configurable supplier questionnaires, automated certificate expiry alerts, purchase order revision workflows, and a full-text searchable contract repository.
 
 ---
@@ -174,7 +174,7 @@ We welcome contributions from procurement engineers, vendor managers, and open-s
 1. Fork this repository.
 2. Add your suggested platform or project to [README.md](file:///C:/Users/hp/Documents/Projects/Awesome-Supplier-Lifecycle-Management-SLM/README.md) adhering to existing formats:
    - For **SaaS**: Include company scale, core capabilities, transparent starting pricing, and concrete free-tier/trial limits.
-   - For **Open-Source**: Include official GitHub link, Shields.io social star badge linking to `/stargazers`, and a descriptive capability summary.
+   - For **Open-Source**: Include official GitHub link, Shields.io social Stars_Badge linking to `/stargazers`, and a descriptive capability summary.
 3. Submit a pull request with a brief summary of the changes.
 
 ---
